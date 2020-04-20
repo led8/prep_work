@@ -1,7 +1,7 @@
-# INTRODUCTION TO HTML
+# INTRODUCTION TO HTML (HyperText Markup Language)
 
 
-HTML is a **front language**. It means what is displayed and visible on a web page as `images`, `videos` or `text content`.
+HTML is a **front language**. It's a web language designed to represent web pages, it means what is displayed and visible on a web page as `images`, `videos` or `text content`.
 
 This is the **skeleton** of all web pages, it provides the structure to the content appearing on a website.
 
