@@ -312,13 +312,12 @@ color: rgb(255, 83, 13);
 color: rgba(255, 83, 13, 1.0);
 ```
 
-#### Box Model
 
 ![box_model](../assets/box_model.png)
 
-#### Box Model - Border
 
-#### Borders
+
+![border](../assets/border.png)
 
 
 ```css
@@ -334,11 +333,15 @@ div {
 }
 ```
 
-![Image associée](http://4.bp.blogspot.com/-Xw7CNA4MM6o/UIjUjzN-FQI/AAAAAAAABX0/xfnKFZuoiSU/s1600/border_style.jpg)
+![borders](../assets/borders.png)
 
-#### Border radius
 
-![enter image description here](https://www.1keydata.com/css-tutorial/border-radius-illustration.png)
+![border_radius](../assets/border_radius.png)
+
+![border_radius_2](../assets/border_radius_2.png)
+
+![bo_shadow](../assets/bo_shadow.png)
+
 
 #### Units
 
@@ -379,36 +382,76 @@ p {
 }
 ```
 
-![enter image description here](https://css-tricks.com/wp-content/uploads/2018/10/01-container.svg)
-
-![enter image description here](https://css-tricks.com/wp-content/uploads/2018/10/02-items.svg)
-
-#### Flexbox - justify content
+![flex](../assets/flex.png)
 
 
-```css
-.container {
-  display: flex;
-  justify-content: flex-start | flex-end | center | space-between | space-around | space-evenly;
-}
-.items {
-  flex: 1;
-}
-```
-
-![enter image description here](https://css-tricks.com/wp-content/uploads/2018/10/justify-content.svg)
-
-#### Flexbox - align items
+#### Flexbox - justify content (1)
 
 
 ```css
 .container {
   display: flex;
-  align-items: stretch | flex-start | flex-end | center | baseline;
+  justify-content: space-evenly;
 }
 ```
 
-![enter image description here](https://css-tricks.com/wp-content/uploads/2018/10/align-items.svg)
+![flex_content](../assets/flex_content.png)
+
+
+#### Flexbox - justify content (2)
+
+
+```css
+.container {
+  display: flex;
+  justify-content: space-between;
+}
+```
+
+![flex_content_2](../assets/flex_content_2.png)
+
+
+#### Flexbox - align items (1)
+
+
+```css
+.container {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-end;
+}
+```
+
+![flex_align_2](../assets/flex_align_2.png)
+
+
+#### Flexbox - align items (2)
+
+
+```css
+.container {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+}
+```
+
+![flex_align](../assets/flex_align.png)
+
+
+#### Flexbox - align items (3)
+
+
+```css
+.container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+```
+
+![flex_align_3](../assets/flex_align_3.png)
+
 
 #### Flex item - flex grow
 
@@ -419,11 +462,11 @@ p {
   align-items: center;
 }
 .item {
-  flex-grow: <number>; /* 1 | 2 */
+  flex-grow: 1;
 }
 ```
 
-![enter image description here](https://css-tricks.com/wp-content/uploads/2018/10/flex-grow.svg)
+![flex_grow](../assets/flex_grow.png)
 
 
 ## 🏋️‍♀️ Training 🏋️‍♀️
