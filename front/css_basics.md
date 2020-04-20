@@ -340,7 +340,7 @@ div {
 
 ![border_radius_2](../assets/border_radius_2.png)
 
-![bo_shadow](../assets/bo_shadow.png)
+![box_shadow](../assets/box_shadow.png)
 
 
 #### Units
@@ -375,10 +375,8 @@ p {
 
 ```css
 .container {
+  background-color: yellow;
   display: flex;
-}
-.items {
-  flex: 1;
 }
 ```
 
@@ -390,6 +388,7 @@ p {
 
 ```css
 .container {
+  background-color: yellow;
   display: flex;
   justify-content: space-evenly;
 }
@@ -403,6 +402,7 @@ p {
 
 ```css
 .container {
+  background-color: yellow;
   display: flex;
   justify-content: space-between;
 }
@@ -416,6 +416,7 @@ p {
 
 ```css
 .container {
+  background-color: yellow;
   display: flex;
   justify-content: space-between;
   align-items: flex-end;
@@ -430,6 +431,7 @@ p {
 
 ```css
 .container {
+  background-color: yellow;
   display: flex;
   justify-content: space-between;
   align-items: flex-start;
@@ -444,6 +446,7 @@ p {
 
 ```css
 .container {
+  background-color: yellow;
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -458,6 +461,7 @@ p {
 
 ```css
 .container {
+  background-color: yellow;
   display: flex;
   align-items: center;
 }
