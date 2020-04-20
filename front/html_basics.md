@@ -13,9 +13,9 @@ You can't writre as an anarchist. You have to **respect** some rules to display 
 
 You have to think with **the following relation** :
 
-- parent tag _(<html>)_ `has many` children tags _(<head>, <body> . . .)_
-- child tag _(<head> or <body>)_ `belongs to one` parent tag _(<html>)_
-- the `siblings` of _<html>_ are **_<head>_** and **_<body>_**
+- parent (``<html>``) `has many` children (``<head>``, ``<body>`` . . .)
+- child (``<head>`` or ``<body>``) `belongs to one` parent (``<html>``)
+- the `siblings` of ``<head>`` is ``<body>``
 
 
 ```html
@@ -138,10 +138,12 @@ HTML provides two king of list :
 </form>
 ```
 
-##### Much more (RTFM)
+### Much more (RTFM)
 
 ⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️
+
 **R**ead **T**he **F**ucking **M**anual is an expression that can not be spoken out loud, but cannot be repeated often enough. Probably 80% of the problems programers experience with their code can be resolved by RTFM
+
 ⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️
 
 
