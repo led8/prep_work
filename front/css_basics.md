@@ -314,7 +314,7 @@ color: rgba(255, 83, 13, 1.0);
 
 #### Box Model
 
-![box_model](./assets/box_model.png)
+![box_model](../assets/box_model.png)
 
 #### Box Model - Border
 
