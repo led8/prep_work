@@ -479,7 +479,7 @@ p {
 **Want improve your skills ?**
 
 
-👉 [learn flexbox as a boss](https://flexboxfroggy.com/#fr)
+👉 [learn flexbox like a boss](https://flexboxfroggy.com/#fr)
 
 ⚠️ **R**ead **T**he **F**ucking **M**anual is an expression that can not be spoken out loud, but cannot be repeated often enough. Probably 80% of the problems programers experience with their code can be resolved by RTFM ⚠️
 
