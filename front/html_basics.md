@@ -138,19 +138,6 @@ HTML provides two king of list :
 </form>
 ```
 
-### Much more (RTFM)
-
-⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️
-
-**R**ead **T**he **F**ucking **M**anual is an expression that can not be spoken out loud, but cannot be repeated often enough. Probably 80% of the problems programers experience with their code can be resolved by RTFM
-
-⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️
-
-
-[codeguide.co](https://codeguide.co/)
-
-[MDN Reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
-
 #### 4. Special tags
 
 
@@ -164,6 +151,20 @@ HTML provides two king of list :
 You can emphasize <em>some words</em>, <!-- italic --> and even <strong>more if needed</strong> <!-- bold -->
 </p>
 ```
+
+## Much more (RTFM)
+
+⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️
+
+**R**ead **T**he **F**ucking **M**anual is an expression that can not be spoken out loud, but cannot be repeated often enough. Probably 80% of the problems programers experience with their code can be resolved by RTFM
+
+⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️
+
+
+[codeguide.co](https://codeguide.co/)
+
+[MDN Reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
+
 
 ## Attributes
 
